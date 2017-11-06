@@ -1,0 +1,29 @@
+atomVersion 1.0;
+mayaVersion 2018;
+mayaSceneFile C:/Users/TiGRoN/Documents/Unreal Projects/Models/Source/HGH_Commandor/SaveCh_2.6.mb;
+timeUnit pal;
+linearUnit cm;
+angularUnit deg;
+startTime 50;
+endTime 75;
+dagNode {
+  QuickRigCharacter1_Ctrl_Reference 1 20;
+  static rotate.rx rotateX 0;
+  { 0 }
+  static rotate.ry rotateY 1;
+  { 0 }
+  static rotate.rz rotateZ 2;
+  { 0 }
+  static scale.sx scaleX 3;
+  { 1 }
+  static scale.sy scaleY 4;
+  { 1 }
+  static scale.sz scaleZ 5;
+  { 1 }
+  static translate.tx translateX 6;
+  { 0 }
+  static translate.ty translateY 7;
+  { 0.070299998 }
+  static translate.tz translateZ 8;
+  { -0.85130119 }
+}
